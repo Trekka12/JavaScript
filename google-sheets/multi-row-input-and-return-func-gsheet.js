@@ -4,7 +4,7 @@
  */
 function testHybridMultiAndSingleRowInputAndReturnFunc() {
 	let simulatedGSheetMultiDimArrayInput = [["first row value"], // Note the two-dimensional layout for rows and cols that gsheet uses where first array is col and second nested array is the row
-							["second row value"]];
+						["second row value"]];
 	
 	hybridMultiAndSingleRowInputAndReturnFunc(simulatedGSheetMultiDimArrayInput);
 }
@@ -13,7 +13,6 @@ function testHybridMultiAndSingleRowInputAndReturnFunc() {
  * A hybrid function which can process both single-row and multi-row input data in gsheet
  * - customfunction below is added to activate "documentation comments in gsheet for users to aid in function call
  * @param gsheetMultiDimArrayInput - our input values
- * 
  * @return returnArray - our one dim array to be returned with processed/unprocessed values
  * @customfunction
  */

@@ -4,7 +4,7 @@
  */
 function testHybridMultiAndSingleRowInputAndReturnFunc() {
 	let simulatedGSheetMultiDimArrayInput = [["first row value"], // Note the two-dimensional layout for rows and cols that gsheet uses where first array is col and second nested array is the row
-											 ["second row value"]];
+							["second row value"]];
 	
 	hybridMultiAndSingleRowInputAndReturnFunc(simulatedGSheetMultiDimArrayInput);
 }

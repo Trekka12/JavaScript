@@ -8,3 +8,26 @@ Collection of useful Vanilla JavaScript code
 - How to check element existence with Vanilla JS
 - How to assign an event listener to a specific element with Vanilla JS
 - How to assign an event listener with event delegation and propagation with Vanilla JS
+
+- How to add a class to an element with Vanilla JS (elem.classList.add("className"))
+- How to get attribute value of an element with Vanilla JS (elem.getAttribute("attribute")
+- How to replace specific characters of textstrings with Vanilla JS (textstring.replace(All)('/', ''))
+- How to split a textstring on specific character with Vanilla JS (textstring.split('/'))
+- How to set attribute and attribute value on an element with Vanilla JS (elem.setAttribute("attribute", "value")
+- How to apply CSS styling inline (bad praxis, only use temporarily) with Vanilla JS (.style.display = "")
+- How to check if Array in JavaScript includes a value with Vanilla JS (.includes func)
+- How to check if textstring contains a specific value with Vanilla JS (.indexOf() !== -1)
+- How to check if textstring contains Regular Expression with Vanilla JS (textstring.match(regex))
+- How to clear textstring of character patterns identified with Regular Expression with Vanilla JS (.replaceAll?)
+- How to convert textstring to lowercase and uppercase with Vanilla JS (.toUpperCase() and toLowerCase())
+- 
+
+## Useful Vanilla JS functions
+- Unwrap element
+- Wrap element
+- Check element existence
+- Check if parent has child element
+- Check if element has class
+- Round number to nearest nine
+- Speed test for function wrapped code execution
+- Round to two decimal

@@ -8,8 +8,9 @@ Collection of useful Vanilla JavaScript code
 - How to check element existence with Vanilla JS
 - How to assign an event listener to a specific element with Vanilla JS
 - How to assign an event listener with event delegation and propagation with Vanilla JS
+- How to add a class to an element with Vanilla JS
+- How to remove a class from an element with Vanilla JS
 
-- How to add a class to an element with Vanilla JS (elem.classList.add("className"))
 - How to get attribute value of an element with Vanilla JS (elem.getAttribute("attribute")
 - How to replace specific characters of textstrings with Vanilla JS (textstring.replace(All)('/', ''))
 - How to split a textstring on specific character with Vanilla JS (textstring.split('/'))

@@ -1,4 +1,4 @@
-// Below code is inspired from Stackoverflow:
+// Below code is inspired from StackOverflow:
 // https://stackoverflow.com/questions/5629684/how-can-i-check-if-an-element-exists-in-the-visible-dom#answer-5629761
 
 let elem = document.getElementById("your-elem-id-here");

@@ -11,8 +11,8 @@ Collection of useful Vanilla JavaScript code
 - How to add a class to an element with Vanilla JS
 - How to remove a class from an element with Vanilla JS
 - How to get attribute value of an element with Vanilla JS
+- How to replace specific characters in textstrings with Vanilla JS
 
-- How to replace specific characters of textstrings with Vanilla JS (textstring.replace(All)('/', ''))
 - How to split a textstring on specific character with Vanilla JS (textstring.split('/'))
 - How to set attribute and attribute value on an element with Vanilla JS (elem.setAttribute("attribute", "value")
 - How to apply CSS styling inline (bad praxis, only use temporarily) with Vanilla JS (.style.display = "")

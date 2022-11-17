@@ -14,8 +14,8 @@ Collection of useful Vanilla JavaScript code
 - How to replace specific characters in textstrings with Vanilla JS
 - How to split a textstring on specific character with Vanilla JS
 - How to set attribute and attribute value on an element with Vanilla JS
+- How to apply CSS styling inline (bad praxis, only use temporarily until class has been created to replace) with Vanilla JS
 
-- How to apply CSS styling inline (bad praxis, only use temporarily) with Vanilla JS (.style.display = "")
 - How to check if Array in JavaScript includes a value with Vanilla JS (.includes func)
 - How to check if textstring contains a specific value with Vanilla JS (.indexOf() !== -1)
 - How to check if textstring contains Regular Expression with Vanilla JS (textstring.match(regex))

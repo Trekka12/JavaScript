@@ -9,3 +9,20 @@ let textString = "This textString Should Be converted to either lowerCase or Upp
 console.log("textString converted to UpperCase: \n" + textString.toUpperCase()); // the \n character makes newLine in string formatting
 
 console.log("textString converted to lowerCase: \n" + textString.toLowerCase());
+
+let otherString = "TeXt";
+
+// A practical example of how we usually use .toLowerCase() and .toUpperCase() below
+if(otherString.toLowerCase() == "text") {
+	
+	// this can be useful to check case-insensitive matching when want to avoid too much permanent value manipulation and just check something
+	
+}
+
+// or...
+
+if(otherString.toUpperCase() == "TEXT") {
+	
+	// same as above, just using upperCase instead :)
+	
+}

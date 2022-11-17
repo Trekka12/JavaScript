@@ -51,7 +51,7 @@ let secs = 0;
 if(timeDiff > MIN_IN_MILLISEC) {
 	
 	mins = timeDiff / MIN_IN_MILLISEC;
-	secs = timeDiff % MIN_IN_MILLISEC;
+	secs = timeDiff % MIN_IN_MILLISEC; // modulus (%) gives us the rest of the division
 	
 }else { // if timeDiff is not larger than 60'000 there are no minutes, only seconds (if even that - if below 1000 only millisecs exist)
 

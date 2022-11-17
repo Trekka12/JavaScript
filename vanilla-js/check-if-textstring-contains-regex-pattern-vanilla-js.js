@@ -24,7 +24,7 @@ let textString 	= "Excess+++";
 let textString2 = "Excess---";
 
 // if/when .match() func finds matches it returns an array which is interpreted as true in JavaScript, if no matches null is returned instead which is equivalent to false
-if(textString.match(regex) || textString2.match(regex)) {
+if(textString.match(regex) || textString2.match(regex)) { // our regex is kind of a two-in-one special pattern to match in this case :)
 	
 	// So if the pattern of our regex variable was found within textString, we can do stuff here :) if we wish to clear the pattern from the textstring, we can use .replaceAll() function for example
 	textString = textString.replace(regex, '');

@@ -17,9 +17,10 @@ Collection of useful Vanilla JavaScript code
 - How to apply CSS styling inline (bad praxis, only use temporarily until class has been created to replace) with Vanilla JS
 - How to check if a textstring contains another textstring with Vanilla JS
 - How to check if Array in JavaScript contains a specific value with Vanilla JS
+- How to check if textstring contains Regular Expression with Vanilla JS
 
 - How to check if textstring contains a specific value with Vanilla JS (.indexOf() !== -1)
-- How to check if textstring contains Regular Expression with Vanilla JS (textstring.match(regex))
+
 - How to clear textstring of character patterns identified with Regular Expression with Vanilla JS (.replaceAll?)
 - How to convert textstring to lowercase and uppercase with Vanilla JS (.toUpperCase() and toLowerCase())
 - 

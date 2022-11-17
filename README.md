@@ -18,9 +18,7 @@ Collection of useful Vanilla JavaScript code
 - How to check if a textstring contains another textstring with Vanilla JS
 - How to check if Array in JavaScript contains a specific value with Vanilla JS
 - How to check if textstring contains Regular Expression (& clear it of the pattern matched) with Vanilla JS
-
-- How to convert textstring to lowercase and uppercase with Vanilla JS (.toUpperCase() and toLowerCase())
-- How to check if textstring contains a specific value with Vanilla JS (.indexOf() !== -1)
+- How to convert textstring to lowercase and uppercase with Vanilla JS
 
 ## Useful Vanilla JS functions
 - Unwrap element

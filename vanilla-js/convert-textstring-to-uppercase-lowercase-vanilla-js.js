@@ -12,11 +12,10 @@ console.log("textString converted to lowerCase: \n" + textString.toLowerCase());
 
 let otherString = "TeXt";
 
-// A practical example of how we usually use .toLowerCase() and .toUpperCase() below
+// A practical example of how we usually use .toLowerCase() and .toUpperCase() in everyday worklife from time to time below
 if(otherString.toLowerCase() == "text") {
 	
 	// this can be useful to check case-insensitive matching when want to avoid too much permanent value manipulation and just check something
-	
 }
 
 // or...
@@ -24,5 +23,4 @@ if(otherString.toLowerCase() == "text") {
 if(otherString.toUpperCase() == "TEXT") {
 	
 	// same as above, just using upperCase instead :)
-	
 }

@@ -19,6 +19,7 @@ Collection of useful Vanilla JavaScript code
 - How to check if Array in JavaScript contains a specific value with Vanilla JS
 - How to check if textstring contains Regular Expression (& clear it if the pattern matched) with Vanilla JS
 - How to convert textstring to lowercase and uppercase with Vanilla JS
+- How to measure speed it takes to run JavaScript code with Vanilla JS
 
 ## Useful Vanilla JS functions
 - Unwrap element

@@ -24,7 +24,7 @@ Collection of useful Vanilla JavaScript code
 ## Useful Vanilla JS functions
 - Speed test function for function-wrapped code execution
 - Round to two decimals function
-- Round to nearest 9
+- Round to nearest 9 function
 - Unwrap element
 - Wrap element
 - Check element existence

@@ -22,11 +22,12 @@ Collection of useful Vanilla JavaScript code
 - How to measure speed it takes to run JavaScript code with Vanilla JS
 
 ## Useful Vanilla JS functions
+- Speed test function for function-wrapped code execution
 - Unwrap element
 - Wrap element
 - Check element existence
 - Check if parent has child element
 - Check if element has class
 - Round number to nearest nine
-- Speed test for function wrapped code execution
+
 - Round to two decimal

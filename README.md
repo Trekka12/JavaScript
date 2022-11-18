@@ -25,8 +25,8 @@ Collection of useful Vanilla JavaScript code
 - Speed test function for function-wrapped code execution
 - Round to two decimals function
 - Round to nearest 9 function
-- Unwrap element
-- Wrap element
-- Check element existence
-- Check if parent has child element
-- Check if element has class
+- Unwrap element function
+- Wrap element function
+- Check element existence function
+- Check if parent has specific child element function
+- Check if element has class function

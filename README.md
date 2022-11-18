@@ -23,11 +23,10 @@ Collection of useful Vanilla JavaScript code
 
 ## Useful Vanilla JS functions
 - Speed test function for function-wrapped code execution
+- Round to two decimals function
 - Unwrap element
 - Wrap element
 - Check element existence
 - Check if parent has child element
 - Check if element has class
 - Round number to nearest nine
-
-- Round to two decimal

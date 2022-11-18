@@ -52,7 +52,7 @@ function speedTest(iterations) {
 		secs = timeDiff / SEC_IN_MILLISEC;
 	}
 	
-	console.log("time diff in millisecs: " + timeDiff + " for running testFunction computation, which is in mins and secs: " + mins + " minutes, " + secs + " seconds.");
+	console.log("time diff in millisecs: " + timeDiff + " for running speedTest of func computation, which is in mins and secs: " + mins + " minutes, " + secs + " seconds.");
 }
 
 // And now for the finale - lets run a speedTest:

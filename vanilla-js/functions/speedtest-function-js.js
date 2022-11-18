@@ -29,7 +29,7 @@ function speedTest(iterations) {
 	let startTime = Date.now();
 	
 	func(iterations); // notice this code assumes existence of 'func' function in Global Scope within same JS document
-					  // also notice how we pass the input param of speedTest on to our func to speedTest
+			// also notice how we pass the input param of speedTest on to our func to speedTest
 	
 	let endTime = Date.now();
 	

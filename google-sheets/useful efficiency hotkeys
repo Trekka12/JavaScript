@@ -1,0 +1,9 @@
+Google has a way of creating whacky hotkeys for us nordic users sometimes, for example hotkeys involving colons and other SHIFT-enabled keys etc.
+A few days ago I came across the need to have a hotkey to quickly and easily generate current datetime
+For this Googles default hotkey seems listed as: Ctrl + Alt + Shift + :
+
+On nordic keyboards this won't work. Using Shift-keys such as colon, is simply not great.
+Apparently the corresponding hotkey for us nordic users is as follows:
+*Ctrl + Alt + Shift + ¨*
+Where that last character is also the ^ key usually sitting next to ENTER on your keyboard.
+This hotkey, when used, will generate both date + time into the cell of your choosing, Enjoy :)

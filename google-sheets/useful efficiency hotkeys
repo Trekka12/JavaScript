@@ -7,3 +7,9 @@ Apparently the corresponding hotkey for us nordic users is as follows:
 Ctrl + Alt + Shift + ¨
 Where that last character is also the ^ key usually sitting next to ENTER on your keyboard.
 This hotkey, when used, will generate both date + time into the cell of your choosing, Enjoy :)
+
+For just the date, its CTRL + ¨
+ergo CTRL + ^
+(do note that ^ is gotten by using SHIFT key on nordic keyboards, so I'm just using this to clarify the otherwise quite hard-to-see ¨ character)
+
+For just the time one can use: CTRL + SHIFT + ¨
